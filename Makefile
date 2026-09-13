@@ -16,7 +16,7 @@ help:
 
 install:
 	$(INSTALL) -dm755 "$(DESTDIR)$(PREFIX)/share/backgrounds/argvus"
-	cp -R --no-preserve=ownership usr/share/backgrounds/argvus/. "$(DESTDIR)$(PREFIX)/share/backgrounds/argvus/"
+	cp -R --no-preserve=ownership src/usr/share/backgrounds/argvus/. "$(DESTDIR)$(PREFIX)/share/backgrounds/argvus/"
 	$(INSTALL) -Dm644 LICENSE \
 		"$(DESTDIR)$(PREFIX)/share/licenses/argvus-wallpapers/LICENSE"
 
@@ -26,8 +26,8 @@ uninstall:
 
 validate:
 	@set -eu; \
-	for theme in usr/share/backgrounds/argvus/*.png; do test -f "$$theme"; done; \
-	test -f usr/share/backgrounds/argvus/default.png
+	for theme in src/usr/share/backgrounds/argvus/*.png; do test -f "$$theme"; done; \
+	test -f src/usr/share/backgrounds/argvus/default.png
 	@echo "argvus-wallpapers validation ok"
 
 build:
