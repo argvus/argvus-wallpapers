@@ -17,11 +17,13 @@ both are presented to the PKGBUILD as `${pkgname}-${pkgver}`.
 
 ## Package-specific layout
 
-The package installs the PNG assets from
+The package installs the JPEG XL assets from
 `src/usr/share/backgrounds/argvus/` into
 `/usr/share/backgrounds/argvus/` and installs `LICENSE` under the package
-license directory. `default.png` is required and the remaining PNG files are
-the project-specific theme assets.
+license directory. `argvus-dark.jxl` and `argvus-light.jxl` are the root
+fallbacks. Theme wallpapers used automatically by ARGVUS live under
+`abstract/{dark,light}/`; the optional manually selectable landscape assets live
+under `landscape/{dark,light}/`.
 
 Both PKGBUILDs use the same metadata and payload functions. The CI source is
 the tagged GitHub archive; the local source is the deterministic archive
