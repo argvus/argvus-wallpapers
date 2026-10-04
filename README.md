@@ -6,10 +6,11 @@ ARGVUS desktop wallpapers for the default theme set.
 [![Release](https://github.com/argvus/argvus-wallpapers/actions/workflows/release.yml/badge.svg)](https://github.com/argvus/argvus-wallpapers/actions/workflows/release.yml)
 [![License](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](LICENSE)
 
-This repository provides the JPEG XL wallpaper assets packaged for ARGVUS.
-`argvus-dark.jxl` and `argvus-light.jxl` are the official fallback wallpapers.
-Theme wallpapers are under `abstract/{dark,light}`; optional manual landscape
-wallpapers are under `landscape/{dark,light}`.
+This repository provides the official ARGVUS wallpaper assets packaged for
+ARGVUS. `argvus-dark.jxl` and `argvus-light.jxl` are the JPEG XL fallback
+wallpapers; `argvus-dark.svg` and `argvus-light.svg` are installed alongside
+them. Theme wallpapers are not stored here: each theme package ships its own
+under `abstract/{dark,light}`.
 
 ## Build and install
 

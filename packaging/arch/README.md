@@ -17,13 +17,12 @@ both are presented to the PKGBUILD as `${pkgname}-${pkgver}`.
 
 ## Package-specific layout
 
-The package installs the JPEG XL assets from
-`src/usr/share/backgrounds/argvus/` into
-`/usr/share/backgrounds/argvus/` and installs `LICENSE` under the package
-license directory. `argvus-dark.jxl` and `argvus-light.jxl` are the root
-fallbacks. Theme wallpapers used automatically by ARGVUS live under
-`abstract/{dark,light}/`; the optional manually selectable landscape assets live
-under `landscape/{dark,light}/`.
+The package installs the `*.jxl` and `*.svg` assets from
+`src/usr/share/backgrounds/argvus/` into `/usr/share/backgrounds/argvus/` and
+installs `LICENSE` under the package license directory. `check()` requires
+`argvus-dark.jxl`, `argvus-light.jxl`, `argvus-dark.svg` and
+`argvus-light.svg`. Theme wallpapers are shipped by the theme packages, not by
+this package.
 
 Both PKGBUILDs use the same metadata and payload functions. The CI source is
 the tagged GitHub archive; the local source is the deterministic archive

@@ -33,7 +33,8 @@ Defina seu wallpaper através de:
 ## Localização
 
 Os wallpapers instalados estão localizados em:
-- `/usr/share/pixmaps/argvus-wallpapers/`
+- `/usr/share/backgrounds/argvus/` — `argvus-dark.jxl`, `argvus-light.jxl` (fallbacks em JPEG XL) e `argvus-dark.svg`, `argvus-light.svg`
+- Os wallpapers de tema são distribuídos por cada pacote de tema em `/usr/share/backgrounds/argvus/abstract/{dark,light}/`
 - `~/.local/share/pixmaps/` (wallpapers personalizados do usuário)
 
 ## Wallpapers Personalizados
