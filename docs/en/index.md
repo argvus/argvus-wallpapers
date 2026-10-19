@@ -1,42 +1,32 @@
 ---
 title: ARGVUS Wallpapers
-description: Official wallpaper collection for ARGVUS desktop
+description: The base wallpapers installed by argvus-wallpapers, and how a wallpaper is chosen.
 ---
 
 # ARGVUS Wallpapers
 
-The ARGVUS Wallpapers collection includes high-quality, professionally designed wallpapers that complement the visual identity of the ARGVUS desktop environment.
+`argvus-wallpapers` installs the two base wallpapers of the desktop, one dark and one light.
+Each official theme package ships its own wallpaper, so the wallpaper of the active theme is
+normally the theme's, not one of these.
 
-## Wallpaper Collection
+## Installed files
 
-The collection features:
-- Minimalist abstract designs
-- Colors coordinated with ARGVUS themes
-- Multiple resolutions (1920x1080, 2560x1440, 3840x2160, etc.)
-- Both light and dark variants
+| File | Format |
+| --- | --- |
+| `/usr/share/backgrounds/argvus/argvus-dark.jxl` | JPEG XL |
+| `/usr/share/backgrounds/argvus/argvus-light.jxl` | JPEG XL |
+| `/usr/share/backgrounds/argvus/argvus-dark.svg` | SVG |
+| `/usr/share/backgrounds/argvus/argvus-light.svg` | SVG |
 
-## Installation
+The theme packages add their wallpapers under `/usr/share/backgrounds/argvus/abstract/`,
+in `dark` and `light` directories.
 
-Wallpapers are available through:
+## Choosing a wallpaper
 
-```bash
-pacman -S argvus-wallpapers
-```
+Open the Control Center (Appearance > Wallpapers). The first entry opens a file chooser for
+your own image. A custom wallpaper is stored as `/appearance/wallpaper` together with
+`/appearance/wallpaper_custom` in `config.json`. Selecting a bundled wallpaper replaces the
+custom choice; it does not change the theme.
 
-## Setting Wallpapers
-
-Set your wallpaper through:
-- ARGVUS Control Center → Appearance → Wallpapers
-- Desktop context menu
-- System settings
-
-## Location
-
-Installed wallpapers are located at:
-- `/usr/share/backgrounds/argvus/` — `argvus-dark.jxl`, `argvus-light.jxl` (JPEG XL fallbacks) and `argvus-dark.svg`, `argvus-light.svg`
-- Theme wallpapers are shipped by each theme package under `/usr/share/backgrounds/argvus/abstract/{dark,light}/`
-- `~/.local/share/pixmaps/` (user custom wallpapers)
-
-## Custom Wallpapers
-
-You can add your own wallpapers by placing them in `~/.local/share/pixmaps/wallpapers/` and they will appear in the wallpaper selector.
+Installing the package does not add any directory to the wallpaper selector: the selector
+offers the bundled wallpapers and the chooser for a custom image.
