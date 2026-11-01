@@ -1,6 +1,6 @@
 # Maintainer: William C. Canin
 pkgname=argvus-wallpapers
-pkgver=0.1.0
+pkgver=0.0.0
 pkgrel=1
 pkgdesc="ARGVUS desktop wallpapers for the default theme set."
 arch=('any')
