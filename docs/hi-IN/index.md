@@ -1,0 +1,32 @@
+---
+title: ARGVUS Wallpapers
+description: argvus-wallpapers द्वारा इंस्टॉल किए गए बेस वॉलपेपर, और एक वॉलपेपर कैसे चुना जाता है।
+---
+
+# ARGVUS वॉलपेपर
+
+`argvus-wallpapers` डेस्कटॉप के दो बेस वॉलपेपर इंस्टॉल करता है, एक डार्क और एक लाइट।
+प्रत्येक आधिकारिक थीम पैकेज अपना वॉलपेपर भेजता है, इसलिए सक्रिय थीम का वॉलपेपर
+सामान्यतः थीम का होता है, इनमें से कोई नहीं।
+
+## इंस्टॉल की गई फाइलें
+
+| File | Format |
+| --- | --- |
+| `/usr/share/backgrounds/argvus/argvus-dark.jxl` | JPEG XL |
+| `/usr/share/backgrounds/argvus/argvus-light.jxl` | JPEG XL |
+| `/usr/share/backgrounds/argvus/argvus-dark.svg` | SVG |
+| `/usr/share/backgrounds/argvus/argvus-light.svg` | SVG |
+
+थीम पैकेज अपने वॉलपेपर `/usr/share/backgrounds/argvus/abstract/` के तहत जोड़ते हैं,
+`dark` और `light` निर्देशिकाओं में।
+
+## वॉलपेपर चुनना
+
+कंट्रोल सेंटर खोलें (देखने > वॉलपेपर)। पहला प्रविष्टि एक फ़ाइल चयनकर्ता खोलता है
+आपकी अपनी छवि के लिए। कस्टम वॉलपेपर को इस तरह संग्रहित किया जाता है `/appearance/wallpaper` साथ ही
+`/appearance/wallpaper_custom` में `config.json`। एक बंडल वाली वॉलपेपर का चयन करना
+कस्टम चयन को बदल देता है; यह थीम को नहीं बदलता।
+
+पैकेज इंस्टॉल करने से वॉलपेपर सेलेक्टर में कोई डायरेक्टरी नहीं जुड़ती: सेलेक्टर
+बंडल की गई वॉलपेपर्स और कस्टम इमेज के लिए चयनकर्ता प्रदान करता है।
