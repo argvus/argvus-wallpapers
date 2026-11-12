@@ -1,5 +1,5 @@
 ---
-title: ARGVUS Wallpapers
+title: ARGVUS Duvar Kağıtları
 description: argvus-wallpapers tarafından yüklenen temel duvar kağıtları ve bir duvar kağıdının nasıl seçildiği.
 ---
 
@@ -11,10 +11,10 @@ normalde temaya aittir, bunlardan biri değil.
 
 ## Kurulan dosyalar
 
-| File | Format |
+| Dosya | Biçim |
 | --- | --- |
-| `/usr/share/backgrounds/argvus/argvus-dark.jxl` | JPEG XL |
-| `/usr/share/backgrounds/argvus/argvus-light.jxl` | JPEG XL |
+| `/usr/share/backgrounds/argvus/argvus-dark.jxl` | JPEGXL |
+| `/usr/share/backgrounds/argvus/argvus-light.jxl` | JPEGXL |
 | `/usr/share/backgrounds/argvus/argvus-dark.svg` | SVG |
 | `/usr/share/backgrounds/argvus/argvus-light.svg` | SVG |
 

@@ -1,6 +1,6 @@
 ---
-title: ARGVUS Wallpapers
-description: ۔ﮯﮨ ﺎﺗﺎﺟ ﺎﯿﮐ ﺐﺨﺘﻨﻣ ﮯﺴﯿﮐ ﺮﭙﯿﭘ ﻝﺍﻭ ﮏﯾﺍ ﺭﻭﺍ ،ﮟﯿﮨ ﮯﯿﮐ ﻝﺎﭩﺴﻧﺍ ﮯﻧ argvus-wallpapers 
+title: ARGVUS وال پیپرز
+description: ۔ﮯﮨ ﺎﺗﺎﺟ ﺎﯿﮐ ﺐﺨﺘﻨﻣ ﮯﺴﯿﮐ ﺮﭙﯿﭘ ﻝﺍﻭ ﮏﯾﺍ ﺭﻭﺍ ،ﮟﯿﮨ ﮯﯿﮐ ﻝﺎﭩﺴﻧﺍ ﮯﻧ argvus-wallpapers
 ---
 
 # ARGVUS ﺯﺮﭙﯿﭘ ﻝﺍﻭ
@@ -11,14 +11,14 @@ description: ۔ﮯﮨ ﺎﺗﺎﺟ ﺎﯿﮐ ﺐﺨﺘﻨﻣ ﮯﺴﯿﮐ ﺮﭙ
 
 ##                                                              ﮟﯿﻠﺋﺎﻓ ﮦﺪﺷ ﻝﺎﭩﺴﻧﺍ
 
-| File | Format |
+| فائل | فارمیٹ |
 | --- | --- |
 | `/usr/share/backgrounds/argvus/argvus-dark.jxl` | JPEG XL |
 | `/usr/share/backgrounds/argvus/argvus-light.jxl` | JPEG XL |
 | `/usr/share/backgrounds/argvus/argvus-dark.svg` | SVG |
 | `/usr/share/backgrounds/argvus/argvus-light.svg` | SVG |
 
-The theme packages add their wallpapers under `/usr/share/backgrounds/argvus/abstract/`,
+تھیم پیکجز اپنے وال پیپرز کو `/usr/share/backgrounds/argvus/abstract/` کے تحت شامل کرتے ہیں،
 `dark` ﺭﻭﺍ `light` ۔ﮟﯿﻣ ﺰﯾﺮﭩﮑﯾﺮﺋﺍﮈ
 
 ##                                                        ﺎﻧﺮﮐ ﺏﺎﺨﺘﻧﺍ ﺎﮐ ﺮﭙﯿﭘ ﻝﺍﻭ

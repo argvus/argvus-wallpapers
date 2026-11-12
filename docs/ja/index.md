@@ -11,8 +11,8 @@ description: argvus-wallpapersによってインストールされた基本の�
 
 | ファイル | 形式 |
 | --- | --- |
-| `/usr/share/backgrounds/argvus/argvus-dark.jxl` | JPEG XL |
-| `/usr/share/backgrounds/argvus/argvus-light.jxl` | JPEG XL |
+| `/usr/share/backgrounds/argvus/argvus-dark.jxl` | JPEGXL |
+| `/usr/share/backgrounds/argvus/argvus-light.jxl` | JPEGXL |
 | `/usr/share/backgrounds/argvus/argvus-dark.svg` | SVG |
 | `/usr/share/backgrounds/argvus/argvus-light.svg` | SVG |
 

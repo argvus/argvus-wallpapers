@@ -1,9 +1,9 @@
 ---
-title: ARGVUS Wallpapers
+title: Papéis de parede ARGVUS
 description: Os wallpapers base instalados pelo argvus-wallpapers e como um wallpaper é escolhido.
 ---
 
-# ARGVUS Wallpapers
+# ARGVUS Papéis de parede
 
 O `argvus-wallpapers` instala os dois wallpapers base do desktop, um escuro e um claro.
 Cada pacote de tema oficial traz o próprio wallpaper, então o wallpaper do tema ativo
@@ -13,8 +13,8 @@ normalmente é o do tema, e não um destes.
 
 | Arquivo | Formato |
 | --- | --- |
-| `/usr/share/backgrounds/argvus/argvus-dark.jxl` | JPEG XL |
-| `/usr/share/backgrounds/argvus/argvus-light.jxl` | JPEG XL |
+| `/usr/share/backgrounds/argvus/argvus-dark.jxl` | JPEGXL |
+| `/usr/share/backgrounds/argvus/argvus-light.jxl` | JPEGXL |
 | `/usr/share/backgrounds/argvus/argvus-dark.svg` | SVG |
 | `/usr/share/backgrounds/argvus/argvus-light.svg` | SVG |
 

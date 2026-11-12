@@ -5,20 +5,20 @@ description: Los fondos de pantalla base instalados por argvus-wallpapers, y có
 
 # Fondos de pantalla de ARGVUS
 
-`argvus-wallpapers` instala los dos fondos de pantalla base del escritorio, uno oscuro y uno claro.  
-Cada paquete de tema oficial incluye su propio fondo de pantalla, por lo que el fondo de pantalla del tema activo es  
+`argvus-wallpapers` instala los dos fondos de pantalla base del escritorio, uno oscuro y uno claro.
+Cada paquete de tema oficial incluye su propio fondo de pantalla, por lo que el fondo de pantalla del tema activo es
 normalmente el del tema, no uno de estos.
 
 ## Archivos instalados
 
 | Archivo | Formato |
 | --- | --- |
-| `/usr/share/backgrounds/argvus/argvus-dark.jxl` | JPEG XL |
-| `/usr/share/backgrounds/argvus/argvus-light.jxl` | JPEG XL |
+| `/usr/share/backgrounds/argvus/argvus-dark.jxl` | JPEGXL |
+| `/usr/share/backgrounds/argvus/argvus-light.jxl` | JPEGXL |
 | `/usr/share/backgrounds/argvus/argvus-dark.svg` | SVG |
 | `/usr/share/backgrounds/argvus/argvus-light.svg` | SVG |
 
-Los paquetes de tema añaden sus fondos de pantalla en `/usr/share/backgrounds/argvus/abstract/`,  
+Los paquetes de tema añaden sus fondos de pantalla en `/usr/share/backgrounds/argvus/abstract/`,
 en los directorios `dark` y `light`.
 
 ## Elegir un fondo de pantalla

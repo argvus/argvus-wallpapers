@@ -1,5 +1,5 @@
 ---
-title: ARGVUS Wallpapers
+title: Hình nền ARGVUS
 description: Các hình nền cơ bản được cài đặt bởi argvus-wallpapers, và cách một hình nền được chọn.
 ---
 
@@ -11,7 +11,7 @@ thường là hình nền của chủ đề đó, không phải một trong nh�
 
 ## Các tập tin đã cài đặt
 
-| File | Format |
+| Tập tin | Định dạng |
 | --- | --- |
 | `/usr/share/backgrounds/argvus/argvus-dark.jxl` | JPEG XL |
 | `/usr/share/backgrounds/argvus/argvus-light.jxl` | JPEG XL |
@@ -19,7 +19,7 @@ thường là hình nền của chủ đề đó, không phải một trong nh�
 | `/usr/share/backgrounds/argvus/argvus-light.svg` | SVG |
 
 Các gói chủ đề sẽ thêm hình nền của chúng vào `/usr/share/backgrounds/argvus/abstract/`,
-in `dark` and `light` directories.
+trong thư mục `dark` và `light`.
 
 ## Chọn hình nền
 

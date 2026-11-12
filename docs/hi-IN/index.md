@@ -1,5 +1,5 @@
 ---
-title: ARGVUS Wallpapers
+title: ARGVUS वॉलपेपर
 description: argvus-wallpapers द्वारा इंस्टॉल किए गए बेस वॉलपेपर, और एक वॉलपेपर कैसे चुना जाता है।
 ---
 
@@ -11,12 +11,12 @@ description: argvus-wallpapers द्वारा इंस्टॉल कि�
 
 ## इंस्टॉल की गई फाइलें
 
-| File | Format |
+| फ़ाइल | प्रारूप |
 | --- | --- |
-| `/usr/share/backgrounds/argvus/argvus-dark.jxl` | JPEG XL |
-| `/usr/share/backgrounds/argvus/argvus-light.jxl` | JPEG XL |
-| `/usr/share/backgrounds/argvus/argvus-dark.svg` | SVG |
-| `/usr/share/backgrounds/argvus/argvus-light.svg` | SVG |
+| `/usr/share/backgrounds/argvus/argvus-dark.jxl` | जेपीईजी एक्सएल |
+| `/usr/share/backgrounds/argvus/argvus-light.jxl` | जेपीईजी एक्सएल |
+| `/usr/share/backgrounds/argvus/argvus-dark.svg` | एसवीजी |
+| `/usr/share/backgrounds/argvus/argvus-light.svg` | एसवीजी |
 
 थीम पैकेज अपने वॉलपेपर `/usr/share/backgrounds/argvus/abstract/` के तहत जोड़ते हैं,
 `dark` और `light` निर्देशिकाओं में।

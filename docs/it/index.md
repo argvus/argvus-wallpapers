@@ -10,8 +10,8 @@ description: Gli sfondi di base installati da argvus-wallpapers e come viene sce
 
 | File | Formato |
 | --- | --- |
-| `/usr/share/backgrounds/argvus/argvus-dark.jxl` | JPEG XL |
-| `/usr/share/backgrounds/argvus/argvus-light.jxl` | JPEG XL |
+| `/usr/share/backgrounds/argvus/argvus-dark.jxl` | JPEGXL |
+| `/usr/share/backgrounds/argvus/argvus-light.jxl` | JPEGXL |
 | `/usr/share/backgrounds/argvus/argvus-dark.svg` | SVG |
 | `/usr/share/backgrounds/argvus/argvus-light.svg` | SVG |
 

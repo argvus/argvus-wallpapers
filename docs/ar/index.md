@@ -1,5 +1,5 @@
 ---
-title: ARGVUS Wallpapers
+title: خلفيات ARGVUS
 description: .ﻂﺋﺎﺤﻟﺍ ﻕﺭﻭ ﺭﺎﻴﺘﺧﺍ ﻢﺘﻳ ﻒﻴﻛﻭ ،argvus-wallpapers ﺔﻄﺳﺍﻮﺑ ﺖﺒﺜﻤﻟﺍ ﻲﺳﺎﺳﻷ﻿ﺍ ﻂﺋﺎﺤﻟﺍ ﻕﺭﻭ
 ---
 
@@ -11,10 +11,10 @@ description: .ﻂﺋﺎﺤﻟﺍ ﻕﺭﻭ ﺭﺎﻴﺘﺧﺍ ﻢﺘﻳ ﻒﻴ�
 
 ##                                                                ﺔﺘﺒﺜﻤﻟﺍ ﺕﺎﻔﻠﻤﻟﺍ
 
-| File | Format |
+| ملف | تنسيق |
 | --- | --- |
-| `/usr/share/backgrounds/argvus/argvus-dark.jxl` | JPEG XL |
-| `/usr/share/backgrounds/argvus/argvus-light.jxl` | JPEG XL |
+| `/usr/share/backgrounds/argvus/argvus-dark.jxl` | جبيغ XL |
+| `/usr/share/backgrounds/argvus/argvus-light.jxl` | جبيغ XL |
 | `/usr/share/backgrounds/argvus/argvus-dark.svg` | SVG |
 | `/usr/share/backgrounds/argvus/argvus-light.svg` | SVG |
 

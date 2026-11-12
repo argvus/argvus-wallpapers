@@ -12,8 +12,8 @@ description: Базовые обои, установленные argvus-wallpape
 | --- | --- |
 | `/usr/share/backgrounds/argvus/argvus-dark.jxl` | JPEG XL |
 | `/usr/share/backgrounds/argvus/argvus-light.jxl` | JPEG XL |
-| `/usr/share/backgrounds/argvus/argvus-dark.svg` | SVG |
-| `/usr/share/backgrounds/argvus/argvus-light.svg` | SVG |
+| `/usr/share/backgrounds/argvus/argvus-dark.svg` | СВГ |
+| `/usr/share/backgrounds/argvus/argvus-light.svg` | СВГ |
 
 Пакеты тем добавляют свои обои в директории `/usr/share/backgrounds/argvus/abstract/`, `dark` и `light`.
 

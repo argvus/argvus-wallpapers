@@ -1,5 +1,5 @@
 ---
-title: ARGVUS Wallpapers
+title: ARGVUS
 description: Os wallpapers base instalados pelo argvus-wallpapers e como um wallpaper é escolhido.
 ---
 
@@ -13,8 +13,8 @@ normalmente é o do tema, e não um destes.
 
 | Ficheiro | Formato |
 | --- | --- |
-| `/usr/share/backgrounds/argvus/argvus-dark.jxl` | JPEG XL |
-| `/usr/share/backgrounds/argvus/argvus-light.jxl` | JPEG XL |
+| `/usr/share/backgrounds/argvus/argvus-dark.jxl` | JPEGXL |
+| `/usr/share/backgrounds/argvus/argvus-light.jxl` | JPEGXL |
 | `/usr/share/backgrounds/argvus/argvus-dark.svg` | SVG |
 | `/usr/share/backgrounds/argvus/argvus-light.svg` | SVG |
 

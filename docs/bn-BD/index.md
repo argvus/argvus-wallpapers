@@ -1,5 +1,5 @@
 ---
-title: ARGVUS Wallpapers
+title: ARGVUS ওয়ালপেপার
 description: argvus-wallpapers দ্বারা ইনস্টল করা বেস ওয়ালপেপার এবং কিভাবে একটি ওয়ালপেপার নির্বাচন করা হয়।
 ---
 
@@ -11,7 +11,7 @@ description: argvus-wallpapers দ্বারা ইনস্টল করা �
 
 ## ইনস্টল করা ফাইলসমূহ
 
-| File | Format |
+| ফাইল | বিন্যাস |
 | --- | --- |
 | `/usr/share/backgrounds/argvus/argvus-dark.jxl` | JPEG XL |
 | `/usr/share/backgrounds/argvus/argvus-light.jxl` | JPEG XL |
@@ -25,7 +25,7 @@ description: argvus-wallpapers দ্বারা ইনস্টল করা �
 
 কন্ট্রোল সেন্টার খুলুন (দৃশ্যমানতা > ওয়ালপেপার)। প্রথম এন্ট্রি আপনার নিজের ইমেজের জন্য একটি ফাইল চুজার খুলবে
 । একটি কাস্টম ওয়ালপেপার `/appearance/wallpaper` হিসেবে সংরক্ষিত হয়
-`/appearance/wallpaper_custom` in `config.json`. Selecting a bundled wallpaper replaces the
+`/appearance/wallpaper_custom` এ `config.json`। একটি বান্ডিল ওয়ালপেপার নির্বাচন প্রতিস্থাপন
 নিজস্ব পছন্দ; এটি থিম পরিবর্তন করে না।
 
 প্যাকেজটি ইনস্টল করার ফলে ওয়ালপেপার নির্বাচকের কোন ডিরেক্টরি যুক্ত হয় না: নির্বাচক

@@ -1,5 +1,5 @@
 ---
-title: ARGVUS Wallpapers
+title: Wallpaper ARGVUS
 description: Wallpaper dasar yang diinstal oleh argvus-wallpapers, dan bagaimana sebuah wallpaper dipilih.
 ---
 
@@ -11,7 +11,7 @@ adalah milik tema tersebut, bukan salah satu dari ini.
 
 ## File yang diinstal
 
-| File | Format |
+| Berkas | Format |
 | --- | --- |
 | `/usr/share/backgrounds/argvus/argvus-dark.jxl` | JPEG XL |
 | `/usr/share/backgrounds/argvus/argvus-light.jxl` | JPEG XL |
